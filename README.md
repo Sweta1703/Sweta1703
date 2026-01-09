@@ -7,7 +7,7 @@ Full Stack Developer
 Enthusiastic and detail-oriented web developer with strong knowledge of HTML, CSS, JavaScript, and modern frameworks. Passionate about building responsive, user-friendly websites. Eager to apply academic knowledge to real-world projects and grow in a collaborative development environment.
 
 * 🌍  I'm based in Kolkata
-* 🖥️  See my portfolio at [Creative Web Developer](http://sweta1703.github.io/Portfolio/)
+* 🖥️  See my portfolio at [Creative Web Developer]( https://portfolio-delta-orcin-9r8mvvs5lv.vercel.app/)
 * ✉️  You can contact me at [mondalsweta03@gmail.com](mailto:mondalsweta03@gmail.com)
 * 🧠  I'm currently learning BlockChain
 * 👥  I'm looking to collaborate on Development Project
