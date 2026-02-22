@@ -9,7 +9,7 @@ Enthusiastic and detail-oriented web developer with strong knowledge of HTML, CS
 * 🌍  I'm based in Kolkata
 * 🖥️  See my portfolio at [Creative Web Developer]( https://portfolio-delta-orcin-9r8mvvs5lv.vercel.app/)
 * ✉️  You can contact me at [mondalsweta03@gmail.com](mailto:mondalsweta03@gmail.com)
-* 🧠  I'm currently learning BlockChain
+* 🧠  I'm currently learning Salesforce
 * 👥  I'm looking to collaborate on Development Project
 
 <p align="left">
