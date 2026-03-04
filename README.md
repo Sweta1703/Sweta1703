@@ -22,10 +22,3 @@ Enthusiastic and detail-oriented web developer with strong knowledge of HTML, CS
 <a href="https://www.github.com/Sweta1703" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Sweta1703?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-### Support Me
-
-<ul style="list-style-type: none; margin: 0;">
-
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/sweta_03"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
-
-</ul>
